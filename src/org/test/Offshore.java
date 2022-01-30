@@ -9,12 +9,7 @@ public class Offshore {
      System.out.println("UserName");
      	
 	}
-	public static void main(String[] args) {
-		
-		username();
-		
-		
-	}
+	
 
 	public static void password() {
 		
@@ -25,5 +20,6 @@ public class Offshore {
 	public static void main(String[] args) {
 		
 		password();
+		username();
 	}
 }
